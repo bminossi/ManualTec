@@ -3,7 +3,9 @@
 app1 = map_uri_to_worker::jk_uri_worker_map.c
 
 ### Vuln
+
 Apache Tomcat JK Web Server Connector map_uri_to_worker() buffer overflow
+
 https://exchange.xforce.ibmcloud.com/vulnerabilities/32794
 
 ### Font
